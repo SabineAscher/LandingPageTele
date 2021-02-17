@@ -71,20 +71,22 @@ h1, p {
 
 .slider{
       background-color: white;
-      width: 30vw;
-
+      width: 280px;
       padding: 25px;
       opacity: 70%;
       text-align: left;
-      margin-bottom: 125px;
+      margin-bottom: 100px;
       border-bottom: 5px solid #5FB404;
     
   }
 
 .display-5{
-    margin-right: 600px;
+    margin-right: 0px;
     text-align: left;
-    
+}
+
+.caption {
+    margin-right: 100px;
 }
 
 
